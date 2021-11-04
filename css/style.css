@@ -1,4 +1,4 @@
-#main{
+#head{
 	padding: 20px 8%;
 	text-align: center;
 }
@@ -14,10 +14,10 @@ h1{
     transition: top 1s ease-out;
     z-index: 1;
     position: absolute;
-    top: -40px;
+    top: -20px;
   }
   .skip a:focus{
-    top: 0px;
+    top: 70px;
     color: black;
     text-decoration-style: solid;
   }
